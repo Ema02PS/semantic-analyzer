@@ -1,0 +1,21 @@
+x = 40;
+
+int funcion(float v, string n){
+    if (v > 0.0){
+    n = "Mayor"
+    x = x + 5
+}
+    return n
+}
+
+int y = 0
+
+void funcion2(){
+l = l + g
+return y
+}
+
+string funcion3(string a, float p) {
+m = m + 5
+return p
+}
